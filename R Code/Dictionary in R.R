@@ -11,4 +11,4 @@ rating_2 = list("Excellent" = 5,
                 "Poor" = 2,
                 "Very Poor" = 1)
 
-rating_2["Excellent"]
+print(rating_2["Excellent"])
