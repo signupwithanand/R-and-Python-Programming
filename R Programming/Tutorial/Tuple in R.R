@@ -1,0 +1,6 @@
+vec = sample(1:10, 20,replace = T)
+tuple::duplicate(vec)
+tuple::orphan(vec)
+tuple::triplicate(vec)
+tuple::triplicated(vec)
+data.table::chorder(vec)
